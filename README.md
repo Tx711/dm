@@ -1,2 +1,2 @@
 # dm
-ye sabko Hi bolta hai 
+Broadcast your message throughout the server
